@@ -1,5 +1,3 @@
-; NO OVERFLOW SHOWN ON MINUS VALUES AND ROTATIONS!!!!
-
 #include <REG51F380.h>
 ; include table
 $include(DISPLAY_LOOKUP.INC)
